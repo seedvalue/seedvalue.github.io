@@ -4,8 +4,8 @@ appodeal.com, 215574, DIRECT
 #BidMachine
 bidmachine.io, 215574, DIRECT
 #AdMob
-#Copy YOUR_ADMOB_APP_ID entry from your Admob dashboard
 google.com, pub-7602426439989665, DIRECT, f08c47fec0942fa0
+google.com, pub-4272971530084173, DIRECT, f08c47fec0942fa0
 #Notsy
 google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
@@ -27,7 +27,7 @@ openx.com, 540773939, RESELLER, 6a698e2ec38604c6
 appnexus.com, 11236, RESELLER, f5ab79cb980f11d1
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
-facebook.com, 737798311201394, RESELLER, c3e20eee3f780d68
+facebook.com, Business ID, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
@@ -922,8 +922,8 @@ conversantmedia.com, 42094, RESELLER, 03113cd04947736d
 appnexus.com, 14416, RESELLER
 consumable.com, 2001454, RESELLER, aefcd3d2f45b5070
 #Unruly
-rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
-video.unrulymedia.com, 3634565696, RESELLER
+rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3634565696, RESELLER
 indexexchange.com, 182257, RESELLER
 appnexus.com, 6849, RESELLER
 rubiconproject.com, 15268, RESELLER
